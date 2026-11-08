@@ -1,0 +1,13 @@
+{
+  "name": "kanban-for-claude",
+  "description": "Kanban for Claude: your Claude desktop app sessions as a kanban board, by work stage.",
+  "owner": {
+    "name": "Murilo Lima"
+  },
+  "plugins": [
+    {
+      "name": "kanban-for-claude",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.DS_Store
+*.log
+.mcpb-cache/
+node_modules/
+# types the app writes when it loads the mod; each machine generates its own
+.claude-plugin/types/
+
+# Mínimo dos bots (publicar_repositorio.py)
+.env
+.env.*
+!.env.example
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+secrets*
+.venv/
+venv/
+__pycache__/
+.claude/settings.local.json

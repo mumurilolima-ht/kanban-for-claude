@@ -1,0 +1,12 @@
+{
+  "name": "kanban-for-claude",
+  "version": "1.0.0",
+  "description": "A kanban board of your Claude desktop app sessions, by work stage, next to the conversation.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Murilo Lima"
+  },
+  "repository": "https://github.com/mumurilolima-ht/kanban-for-claude",
+  "license": "MIT",
+  "keywords": ["kanban", "sessions", "claude-code", "mod"]
+}
